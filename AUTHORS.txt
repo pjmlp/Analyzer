@@ -1,0 +1,4 @@
+These are the authors responsible for analyzer
+
+ - Paulo Pinto
+ - Pablo Tavares
