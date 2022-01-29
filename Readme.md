@@ -1,7 +1,7 @@
 # Introduction
 This is an analyzer for a very small subset of Pascal as described in the grammar section.
 
-It was developed with [SWI Prolog](http://www.swi-prolog.org/) and the grammar was defined with help of [DCG Grammar rules](http://www.swi-prolog.org/pldoc/doc_for?object=section%282,%274.12%27,swi%28%27/doc/Manual/DCG.html%27%29%29).    
+It was developed with [SWI Prolog](http://www.swi-prolog.org/) and the grammar was defined with help of [DCG Grammar rules](https://www.swi-prolog.org/pldoc/man?section=DCG).    
 
 # Usage
 To use the program you need to consult the file _analyzer.pl_ from the XPCE environment.
